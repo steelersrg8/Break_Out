@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{263B03A4-79D8-1F48-60B3-949232794381}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ballMovement.cs">
+    <Files>
+      <File FileName="../../../Documents/:Users:steelersrg8:Desktop:georgeMason:tennisForTwo:Assets:PlayerControls.cs" Line="11" Column="35" />
+      <File FileName="Assets/PlayerControls.cs" Line="27" Column="5" />
+      <File FileName="Assets/resetBall.cs" Line="13" Column="7" />
+      <File FileName="Assets/sound.cs" Line="12" Column="58" />
+      <File FileName="Assets/ballMovement.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

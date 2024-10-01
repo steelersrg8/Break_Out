@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{59972000-A102-93F3-E252-4AFE00D882C8}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/gameManager.cs">
+    <Files>
+      <File FileName="Assets/ballMovement1.cs" Line="61" Column="9" />
+      <File FileName="Assets/leftWallCollision.cs" Line="12" Column="46" />
+      <File FileName="Assets/playerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerControls.cs" Line="45" Column="58" />
+      <File FileName="Assets/resetBall.cs" Line="16" Column="5" />
+      <File FileName="Assets/gameManager.cs" Line="38" Column="15" />
+      <File FileName="../tennisForTwo/Assets/resetBall.cs" Line="1" Column="1" />
+      <File FileName="Assets/collisionDestruction.cs" Line="15" Column="28" />
+      <File FileName="Assets/ballMovement.cs" Line="10" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
